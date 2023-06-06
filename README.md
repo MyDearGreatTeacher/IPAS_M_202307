@@ -5,7 +5,7 @@
 - 資訊安全規劃實務1	資訊安全管理系統規劃與建置(3小時)
   - ISMS 資訊安全管理制度(ISO 27000/27001/27002)
   - PDCA
-  - ISMS規劃與建置指導原則(Guidance ISO 27003)
+  - ISMS規劃與建置`指導原則`(Guidance ISO 27003)
   - Monitoring, measurement, analysis and evaluation(ISO 27004)
 - 法規遵循(1小時)
 - 資訊安全規劃(2小時)
