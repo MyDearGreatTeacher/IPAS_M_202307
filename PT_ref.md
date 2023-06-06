@@ -18,6 +18,8 @@
 - The Ultimate Kali Linux Book : Perform advanced penetration testing using Nmap, Metasploit, Aircrack-ng, and Empire, 2/e Glen D. Singh  Packt Publishing 2022-02-24
 # 教學影片
 - [HackerSploit頻道](https://www.youtube.com/HackerSploit)
+- [The Cyber Mentor頻道](https://www.youtube.com/@TCMSecurityAcademy)
+  - [Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources) 
 
 # Awesome Pentest
 - [Awesome Pentest](https://github.com/x0x8x/awesome-pentester)
