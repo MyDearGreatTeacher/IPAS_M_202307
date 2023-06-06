@@ -5,7 +5,8 @@
 - [網絡安全運營服務能力指南（共9冊）  範淵  電子工業  2022-06-01](https://www.tenlong.com.tw/products/9787121434280?list_name=sp)
 - [資安防禦指南｜資訊安全架構實務典範  Lee Brotherston , Amanda Berlin 江湖海 歐萊禮 2018-02-14](https://www.tenlong.com.tw/products/9789864766963?list_name=rd)
   - Defensive Security Handbook: Best Practices for Securing Infrastructure
-- 資安風險評估指南 (Network Security Assessment, 3/e) Chris McNab 著、江湖海 譯歐萊禮  2017-09-07](https://www.tenlong.com.tw/products/9789864765478?list_name=rd)
+- [資安風險評估指南 Network Security Assessment, 3/e) Chris McNab 著、江湖海 譯歐萊禮  2017-09-07](https://www.tenlong.com.tw/products/9789864765478?list_name=rd)
+- [透視 APT — 賽博空間的高級威脅   奇安信威脅情報中心 電子工業  2019-08-01](https://www.tenlong.com.tw/products/9787121371011?list_name=sp)
 # 教學影片
 - [HackerSploit頻道](https://www.youtube.com/HackerSploit)
 
