@@ -35,3 +35,12 @@ port numbers can be individual or ranges: lo-hi [inclusive];
 hyphens in port names must be backslash escaped (e.g. 'ftp\-data').
 
 ```
+
+## 範例
+- [How to Use Netcat Commands: Examples and Cheat Sheets](https://www.varonis.com/blog/netcat-commands)
+- [TCP/IP 瑞士刀般的超強網路指令工具：netcat](https://ithelp.ithome.com.tw/articles/10135783)
+- [強大的 netcat 功能與相對應的工具](https://ithelp.ithome.com.tw/articles/10136033)
+- [神奇的指令：netcat](https://blog.miniasp.com/post/2008/07/11/A-magic-command-netcat)
+
+
+printf "GET /index.html HTTP/1.0\r\nHost: info.cern.ch\r\n\r\n" | nc info.cern.ch 80
