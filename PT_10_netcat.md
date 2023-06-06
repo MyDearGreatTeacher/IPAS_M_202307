@@ -42,5 +42,13 @@ hyphens in port names must be backslash escaped (e.g. 'ftp\-data').
 - [強大的 netcat 功能與相對應的工具](https://ithelp.ithome.com.tw/articles/10136033)
 - [神奇的指令：netcat](https://blog.miniasp.com/post/2008/07/11/A-magic-command-netcat)
 
-
-printf "GET /index.html HTTP/1.0\r\nHost: info.cern.ch\r\n\r\n" | nc info.cern.ch 80
+## [WIKI 範例 ](https://en.wikipedia.org/wiki/Netcat)
+- nc mail.server.net 25
+- printf "GET /index.html HTTP/1.0\r\nHost: info.cern.ch\r\n\r\n" | nc info.cern.ch 80
+- { printf 'HTTP/1.0 200 OK\r\nContent-Length: %d\r\n\r\n' "$(wc -c < some.file)"; cat some.file; } | nc -l 8080
+- nc -vzu 192.168.0.1 80-90
+- nc -l -u -p 4172
+- nc -u servname 4172
+- nc -v -n -z -w 1 192.168.1.2 1-1000
+- nc -l 12345 | nc www.google.com 80
+- nc -l -p 1234 -e /bin/sh
