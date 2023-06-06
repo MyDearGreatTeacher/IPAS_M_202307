@@ -25,16 +25,14 @@
   - 風險管理PDCA
 - BCM業務持續管理(2小時)
 - OT security and management(1小時)
-## DAY 3	
-- 資訊安全防護實務1:攻擊分析|資安防護|資安應變
+## DAY 3	資訊安全防護實務1:攻擊分析|資安防護|資安應變
 - 資安攻擊分析(2小時)
 - 資安防護實務(2小時) 
 - MITRE Att@ck and MITRE d3fend(2小時)
 - 安全維運與資安應變實務(2小時)
   - Cyber Threat Hunting
   - DFIR : Digital Forensics and Incident Response
-## DAY 4	
-- 資訊安全防護實務2:安全測試與評估	
+## DAY 4	資訊安全防護實務2:安全測試與評估	
 - 弱點掃描(1小時)
 - 源碼檢測(1小時)
 - 滲透測試實務(4小時)
