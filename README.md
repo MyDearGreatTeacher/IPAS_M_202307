@@ -4,8 +4,8 @@
   - 1. 資訊安全規劃實務 
   - 2. 資訊安全防護實務
 - https://drive.google.com/drive/folders/1v7xs3Og5GI7S7fFTVrjTLaCTPItt3tWQ 
-## DAY 1	
-- 資訊安全規劃實務1	資訊安全管理系統規劃與建置(3小時)
+## DAY 1	資訊安全規劃實務1	
+- 資訊安全管理系統規劃與建置(3小時)
   - ISMS 資訊安全管理制度(ISO 27000/27001/27002)
   - PDCA
   - ISMS規劃與建置`指導原則`(Guidance ISO 27003)
@@ -17,8 +17,8 @@
 - 存取管理(Access management)(2小時)
   - 存取控制
   - 零信任架構Zero Trust Architecture
-## DAY 2	
-- 資訊安全規劃實務2	資訊系統取得與開發管理(1小時)
+## DAY 2	資訊安全規劃實務2	
+- 資訊系統取得與開發管理(1小時)
 - 資安事故管理(Incident management)(1小時)
   - Information security incident management(iso 27035)
 - 風險管理實務(3小時)
