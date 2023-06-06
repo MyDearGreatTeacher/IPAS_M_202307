@@ -1,6 +1,7 @@
 # 滲透測試參考資料
 # 書籍
 - [滲透測試@Tenlong](https://www.tenlong.com.tw/search?utf8=%E2%9C%93&keyword=%E6%BB%B2%E9%80%8F%E6%B8%AC%E8%A9%A6)
+- [駭客就在你旁邊：內網安全攻防滲透你死我活, 2/e   徐焱、賈曉璐 著  深智數位 2023-03-20](https://www.tenlong.com.tw/products/9786267273234?list_name=srh)
 - [網絡安全應急響應技術實戰指南 奇安信安服團隊 電子工業 2020-11-01](https://www.tenlong.com.tw/products/9787121398810?list_name=sp)
 - [網絡安全應急響應技術實戰  李江濤 等   電子工業 2020-10-01](https://www.tenlong.com.tw/products/9787121393068?list_name=sp)
 - [網絡攻防實戰研究：MySQL數據庫安全  祝烈煌,董健,胡光俊  電子工業 2020-09-01](https://www.tenlong.com.tw/products/9787121355301?list_name=sp)
