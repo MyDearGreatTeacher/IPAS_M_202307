@@ -13,6 +13,9 @@
 - [從實踐中學習 Nmap 滲透測試 大學霸IT達人 編著  機械工業 2021-06-01](https://www.tenlong.com.tw/products/9787111682202?list_name=srh)
 #
 - [Web 安全漏洞及代碼審計 (微課版)  郭錫泉,陳香錫  電子工業  2021-08-01](https://www.tenlong.com.tw/products/9787121418488?list_name=rd)
+
+# 英文書籍
+- The Ultimate Kali Linux Book : Perform advanced penetration testing using Nmap, Metasploit, Aircrack-ng, and Empire, 2/e Glen D. Singh  Packt Publishing 2022-02-24
 # 教學影片
 - [HackerSploit頻道](https://www.youtube.com/HackerSploit)
 
