@@ -37,6 +37,7 @@
 - MITRE Att@ck and MITRE d3fend(2小時)
 - 安全維運與資安應變實務(2小時)
   - Cyber Threat Hunting
+    - MISP == >  MISP Threat Sharing
   - DFIR : Digital Forensics and Incident Response
     - Digital Forensics  
       - System/File Forensics
