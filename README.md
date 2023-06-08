@@ -43,7 +43,7 @@
       - Windows Forensics
       - Linux Forensics
       - Network Forensics ==> 考試重點
-      - Memory Forensics
+      - Memory Forensics  ==> volatility
 ## DAY 4	資訊安全防護實務2:安全測試與評估	
 - 弱點掃描(1小時)  
   - 系統弱掃 ==> NESSUS pro == > OPENVAS
