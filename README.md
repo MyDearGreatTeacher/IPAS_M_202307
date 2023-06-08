@@ -53,7 +53,7 @@
   - 工具: $$$$  sonarcube | checkmax | Fortify SCA
   - 原理:
   - CASE study ==> DVWA    
-- 滲透測試實務(4小時)  == > CEH  EC-Council CND網路防禦專家認證課程
+- 滲透測試實務(4小時)  == > EC-Council CEH駭客技術專家認證課程
   - 滲透測試
   - 滲透測試方法論 == > PTES | OSSTMM | PCI
   - 滲透測試工具與技術 == > nc  nmap OSINT
