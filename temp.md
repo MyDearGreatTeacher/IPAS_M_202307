@@ -1,3 +1,55 @@
+Bell-LaPadula Model 
+
+This is the first mathematical model of a multilevel security
+policy that defines the concept of a secure state and necessary modes of access.
+It ensures that information only flows in a manner that does not violate the system
+policy and is confidentiality focused.
+
+• The simple security rule A subject cannot read data within an object that
+resides at a higher security level (no read up).
+• The *-property rule A subject cannot write to an object at a lower security
+level (no write down).
+• The strong star property rule For a subject to be able to read and write to an object, the subject’s clearance and the object’s classification must be equal.
+
+Biba Model 
+
+A model that describes a set of access control rules designed to ensure
+data integrity.
+
+• The simple integrity axiom A subject cannot read data at a lower integrity
+level (no read down).
+• The *-integrity axiom A subject cannot modify an object at a higher
+integrity level (no write up).
+Clark-Wilson Model This integrity model is implemented to protect the integrity
+of data and to ensure that properly formatted transactions take place. It addresses
+all three goals of integrity:
+• Subjects can access objects only through authorized programs (access triple).
+• Separation of duties is enforced.
+• Auditing is required.
+
+Noninterference Model 
+
+This formal multilevel security model states that
+commands and activities performed at one security level should not be seen by, or
+affect, subjects or objects at a different security level.
+
+Brewer and Nash Model 
+
+This model allows for dynamically changing access controls
+that protect against conflicts of interest. Also known as the Chinese Wall model.
+
+Graham-Denning Model 
+
+This model shows how subjects and objects should be
+created and deleted. It also addresses how to assign specific access rights.
+
+Harrison-Ruzzo-Ullman Model 
+
+This model shows how a finite set of procedures
+can be available to edit the access rights of a subject.
+
+
+
 Business Continuity Plan (BCP)
 
 Provides procedures for sustaining mission/business operations while recovering from a significant disruption.
