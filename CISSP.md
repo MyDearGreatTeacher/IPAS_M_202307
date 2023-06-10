@@ -19,30 +19,45 @@
 
 
 ## Domain 1 Security and Risk Management
-```
+
 1.1 Understand, adhere to, and promote professional ethics 
+
 1.1.1 ■■ (ISC)² Code of Professional Ethics 
+
 1.1.2 ■■ Organizational code of ethics 
 
 1.2 Understand and apply security concepts 
+
 1.2.1 ■■ Confidentiality, integrity, and availability, authenticity and nonrepudiation
 
 1.3 Evaluate and apply security governance principles 
+
 1.3.1 ■■ Alignment of security function to business strategy, goals, mission, and objectives
+
 1.3.2 ■■ Organizational processes (e.g., acquisitions, divestitures, governance committees)
+
 1.3.3 ■■ Organizational roles and responsibilities 
+
 1.3.4 ■■ Security control frameworks 
+
 1.3.5 ■■ Due care/due diligence 
 
 1.4 Determine compliance and other requirements 
+
 1.4.1 ■■ Contractual, legal, industry standards, and regulatory requirements
+
 1.4.2 ■■ Privacy requirements 
 
 1.5 Understand legal and regulatory issues that pertain to information security in a holistic context
+
 1.5.1 ■■ Cybercrimes and data breaches 
+
 1.5.2 ■■ Licensing and intellectual property (IP) requirements 
+
 1.5.3 ■■ Import/export controls 
+
 1.5.4 ■■ Transborder data flow 
+
 1.5.5 ■■ Privacy 
 
 1.6 Understand requirements for investigation types (i.e., administrative, criminal, civil, regulatory, industry standards)
@@ -50,41 +65,67 @@
 1.7 Develop, document, and implement security policy, standards, procedures, and guidelines
 
 1.8 Identify, analyze, and prioritize Business Continuity (BC) requirements
+
 1.8.1 ■■ Business Impact Analysis (BIA) 3
+
 1.8.2 ■■ Develop and document the scope and the plan 3
 
 1.9 Contribute to and enforce personnel security policies and procedures
+
 1.9.1 ■■ Candidate screening and hiring 2
+
 1.9.2 ■■ Employment agreements and policies 2
+
 1.9.3 ■■ Onboarding, transfers, and termination processes 2
+
 1.9.4 ■■ Vendor, consultant, and contractor agreements and controls 2
+
 1.9.5 ■■ Compliance policy requirements 2
+
 1.9.6 ■■ Privacy policy requirements 2
 
 1.10 Understand and apply risk management concepts 2
+
 1.10.1 ■■ Identify threats and vulnerabilities 2
+
 1.10.2 ■■ Risk assessment/analysis 2
+
 1.10.3 ■■ Risk response 2
+
 1.10.4 ■■ Countermeasure selection and implementation 2
+
 1.10.5 ■■ Applicable types of controls (e.g., preventive, detective, corrective)
+
 1.10.6 ■■ Control assessments (security and privacy) 2
+
 1.10.7 ■■ Monitoring and measurement 2
+
 1.10.8 ■■ Reporting 2
+
 1.10.9 ■■ Continuous improvement (e.g., Risk maturity modeling) 2
+
 1.10.10 ■■ Risk frameworks 2
 
 1.11 Understand and apply threat modeling concepts and methodologies
+
 1.12 Apply Supply Chain Risk Management (SCRM) concepts 1
+
 1.12.1 ■■ Risks associated with hardware, software, and services 1
+
 1.12.2 ■■ Third-party assessment and monitoring 1
+
 1.12.3 ■■ Minimum security requirements 1
+
 1.12.4 ■■ Service level requirements 1
 
 1.13 Establish and maintain a security awareness, education, and training program
+
 1.13.1 ■■ Methods and techniques to present awareness and training (e.g.,social engineering, phishing, security champions, gamification)
+
 1.13.2 ■■ Periodic content reviews 2
+
 1.13.3 ■■ Program effectiveness evaluation 2
-```
+
 ## Domain 2 Asset Security
 ```
 2.1 Identify and classify information and assets 5
