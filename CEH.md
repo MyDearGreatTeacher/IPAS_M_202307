@@ -118,7 +118,11 @@ used to perform session splicing attacks?
 A. tcpsplice   B. Burp   C. Hydra   D. Whisker
 ```
 ```
+Which of the following tools is used to detect wireless LANs using the 802.11a/b/g/n WLAN standards on a
+Linux platform?
+A. Kismet    B. Abel    C. Netstumbler    D. Nessus
 
+A
 ```
 
 ```
