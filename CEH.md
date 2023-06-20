@@ -140,7 +140,7 @@ A. Circuit   B. Stateful    C. Application    D. Packet Filtering
 
 C
 ```
-### 試題類型.技術的用途
+### 試題類型.技術的類型 | 用途
 ```
 Which of the following is the structure designed to verify and authenticate the identity of individuals within the
 enterprise taking part in a data exchange?
@@ -160,6 +160,17 @@ C. Rainbow tables
 D. Brute force
 
 D
+```
+
+```
+Which Intrusion Detection System is best applicable for large environments where critical assets on the
+network need extra scrutiny and is ideal for observing sensitive network segments?
+A. Honeypots
+B. Firewalls
+C. Network-based intrusion detection system (NIDS)
+D. Host-based intrusion detection system (HIDS)
+
+C
 ```
 ### 試題類型.滲透測試工具及用途
 ```
