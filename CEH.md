@@ -86,7 +86,10 @@ D
 ```
 ### 試題類型.滲透測試工具及用途
 ```
+John the Ripper is a technical assessment tool used to test the weakness of which of the following?
+A. Passwords     B. File permissions    C. Firewall rulesets    D. Usernames
 
+A
 ```
 
 ```
