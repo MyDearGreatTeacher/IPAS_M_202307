@@ -144,7 +144,7 @@ A. Spyware     B. Subnetting    C. Unicode Characters    D. Port Knocking
 C
 ```
 
-### 試題類型1. 防禦技術
+### 試題類型1. 防禦技術 |countermeasure |Security Controls| Safeguard
 ```
 Which of the following is the best countermeasure to encrypting ransomwares?
 A. Use multiple antivirus softwares
