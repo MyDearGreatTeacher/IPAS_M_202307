@@ -35,24 +35,45 @@ A. Clickjacking
 B. Cross-Site Scripting
 C. Cross-Site Request Forgery
 D. Web form input validation
+
+C
+```
+
+```
+Identify the web application attack where the attackers exploit vulnerabilities in dynamically generated web
+pages to inject client-side script into web pages viewed by other users.
+A. LDAP Injection attack
+B. Cross-Site Scripting (XSS)
+C. SQL injection attack
+D. Cross-Site Request Forgery (CSRF)
+
+B
+```
+
+### 試題類型2.系統架構與元件組成
+```
+Which service in a PKI will vouch for the identity of an individual or company?
+A. KDC
+B. CR
+C. CBC
+D. CA
+
+D
 ```
 
 ```
 
 ```
 
-### 試題類型1.
+### 試題類型.滲透測試技術
 ```
+If you want to only scan fewer ports than the default scan using Nmap tool, which option would you use?
+A. -r
+B. -F
+C. -P
+D. -sP
 
-```
-
-```
-
-```
-
-### 試題類型1.
-```
-
+B
 ```
 
 ```
