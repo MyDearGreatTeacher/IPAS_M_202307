@@ -73,6 +73,24 @@ A. Evil Twin Attack    B. Sinkhole Attack     C. Collision Attack   D. Signal Ja
 
 A
 ```
+
+```
+You are working as a Security Analyst in a company XYZ that owns the whole subnet range of 23.0.0.0/8 and
+192.168.0.0/8.
+While monitoring the data, you find a high number of outbound connections. You see that IP’s owned by XYZ
+(Internal) and private IP’s are communicating to a Single Public IP. Therefore, the Internal IP’s are sending
+data to the Public IP.
+After further analysis, you find out that this Public IP is a blacklisted IP, and the internal communicating devices
+are compromised.
+What kind of attack does the above scenario depict?
+A. Botnet Attack
+B. Spear Phishing Attack
+C. Advanced Persistent Threats
+D. Rootkit Attack
+
+A
+
+```
 ### 試題類型2.系統架構與元件組成
 ```
 Which service in a PKI will vouch for the identity of an individual or company?
