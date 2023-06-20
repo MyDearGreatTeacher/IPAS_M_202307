@@ -216,7 +216,13 @@ A
 ```
 
 ```
+An attacker, using a rogue wireless AP, performed an MITM attack and injected an HTML code to embed a
+malicious applet in all HTTP connections.
+When users accessed any page, the applet ran and exploited many machines.
+Which one of the following tools the hacker probably used to inject HTML code?
+A. Wireshark    B. Ettercap  C. Aircrack-ng    D. Tcpdump
 
+B
 ```
 
 ```
