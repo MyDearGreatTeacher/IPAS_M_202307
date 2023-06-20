@@ -138,6 +138,16 @@ D. PKI
 
 D
 ```
+
+```
+Which method of password cracking takes the most time and effort?
+A. Dictionary attack
+B. Shoulder surfing
+C. Rainbow tables
+D. Brute force
+
+D
+```
 ### 試題類型.滲透測試工具及用途
 ```
 John the Ripper is a technical assessment tool used to test the weakness of which of the following?
