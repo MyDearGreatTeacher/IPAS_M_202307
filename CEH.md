@@ -213,6 +213,26 @@ D. nmap -T4 -O 10.10.0.0/24
 ```
 
 ```
+You are attempting to run an Nmap port scan on a web server. Which of the following commands would result
+in a scan of common ports with the least amount of noise in order to evade IDS?
+A. nmap -A - Pn
+B. nmap -sP -p-65535 -T5
+C. nmap -sT -O -T0
+D. nmap -A --host-timeout 99 -T1
+C
+```
+
+```
+What does the –oX flag do in an Nmap scan?
+A. Perform an eXpress scan
+B. Output the results in truncated format to the screen
+C. Output the results in XML format to a file
+D. Perform an Xmas scan
+
+C
+```
+
+```
 Which of the following is an extremely common IDS evasion technique in the web world?
 A. Spyware     B. Subnetting    C. Unicode Characters    D. Port Knocking
 
