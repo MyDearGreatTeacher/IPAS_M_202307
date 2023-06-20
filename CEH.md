@@ -73,6 +73,15 @@ D. CA
 
 D
 ```
+
+```
+During a black-box pen test you attempt to pass IRC traffic over port 80/TCP from a compromised web
+enabled host. The traffic gets blocked; however, outbound HTTP traffic is unimpeded. What type of firewall is
+inspecting outbound traffic?
+A. Circuit   B. Stateful    C. Application    D. Packet Filtering
+
+C
+```
 ### 試題類型.技術的用途
 ```
 Which of the following is the structure designed to verify and authenticate the identity of individuals within the
@@ -119,7 +128,10 @@ B
 ```
 
 ```
+Which of the following is an extremely common IDS evasion technique in the web world?
+A. Spyware     B. Subnetting    C. Unicode Characters    D. Port Knocking
 
+C
 ```
 
 ### 試題類型1.
