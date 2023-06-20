@@ -121,6 +121,16 @@ D. ARP Poisoning
 
 C
 ```
+
+```
+The collection of potentially actionable, overt, and publicly available information is known as
+A. Open-source intelligence
+B. Real intelligence
+C. Social intelligence
+D. Human intelligence
+
+A
+```
 ### 試題類型2.系統架構與元件組成
 ```
 Which service in a PKI will vouch for the identity of an individual or company?
