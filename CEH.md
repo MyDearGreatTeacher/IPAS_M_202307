@@ -129,7 +129,7 @@ A. tcpsplice   B. Burp   C. Hydra   D. Whisker
 
 ```
 
-### 試題類型.滲透測試技術
+### 試題類型.nmap滲透測試技術
 ```
 If you want to only scan fewer ports than the default scan using Nmap tool, which option would you use?
 A. -r
@@ -138,6 +138,16 @@ C. -P
 D. -sP
 
 B
+```
+```
+You have successfully comprised a server having an IP address of 10.10.0.5. You would like to enumerate all
+machines in the same network quickly.
+What is the best Nmap command you will use?
+A. nmap -T4 -q 10.10.0.0/24
+B. nmap -T4 -F 10.10.0.0/24
+C. nmap -T4 -r 10.10.1.0/24
+D. nmap -T4 -O 10.10.0.0/24
+
 ```
 
 ```
