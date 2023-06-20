@@ -169,7 +169,13 @@ C
 ```
 
 ```
+Which of the following is the BEST way to defend against network sniffing?
+A. Using encryption protocols to secure network communications
+B. Register all machines MAC Address in a Centralized Database
+C. Use Static IP Address
+D. Restrict Physical Access to Server Rooms hosting Critical Servers
 
+A
 ```
 
 ### 試題類型1.
