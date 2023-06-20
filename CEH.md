@@ -23,9 +23,18 @@
 ```
 
 # 試題類型
-### 試題類型1.
+### 試題類型1.資安情境敘述 ==> 問是何種攻擊?
 ```
-
+While performing online banking using a Web browser, a user receives an email that contains a link to an
+interesting Web site. When the user clicks on the link, another Web browser session starts and displays a
+video of cats playing a piano. The next business day, the user receives what looks like an email from his bank,
+indicating that his bank account has been accessed from a foreign country. The email asks the user to call his
+bank and verify the authorization of a funds transfer that took place. What Web browser-based security
+vulnerability was exploited to compromise the user?
+A. Clickjacking
+B. Cross-Site Scripting
+C. Cross-Site Request Forgery
+D. Web form input validation
 ```
 
 ```
