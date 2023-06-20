@@ -57,10 +57,20 @@ email and sends back a pdf with links. You exchange the pdf links with your mali
 malware) and send back the modified pdf, saying that the links don’t work. She reads your email, opens the
 links, and her machine gets infected. You now have access to the company network. What testing method did
 you use?
-A. Social engineering
-B. Piggybacking
-C. Tailgating
-D. Eavesdropping
+A. Social engineering       B. Piggybacking    C. Tailgating    D. Eavesdropping
+A
+```
+
+```
+“........is an attack type for a rogue Wi-Fi access point that appears to be a legitimate one offered on the
+premises, but actually has been set up to eavesdrop on wireless communications. It is the wireless version of
+the phishing scam. An attacker fools wireless users into connecting a laptop or mobile phone to a tainted
+hotspot by posing as a legitimate provider. This type of attack may be used to steal the passwords of
+unsuspecting users by either snooping the communication link or by phishing, which involves setting up a
+fraudulent web site and luring people there.”
+Fill in the blank with appropriate choice.
+A. Evil Twin Attack    B. Sinkhole Attack     C. Collision Attack   D. Signal Jamming Attack
+
 A
 ```
 ### 試題類型2.系統架構與元件組成
