@@ -23,7 +23,7 @@
 ```
 
 # 試題類型
-### 試題類型1.資安情境敘述 ==> 問是何種攻擊?
+### 試題類型1.資安情境敘述 ==> 問是何種攻擊? 何種技術?
 ```
 While performing online banking using a Web browser, a user receives an email that contains a link to an
 interesting Web site. When the user clicks on the link, another Web browser session starts and displays a
@@ -49,7 +49,20 @@ D. Cross-Site Request Forgery (CSRF)
 
 B
 ```
-
+```
+You are tasked to perform a penetration test. While you are performing information gathering, you find an
+employee list in Google. You find the receptionist’s email, and you send her an email changing the source
+email to her boss’s email (boss@company). In this email, you ask for a pdf with information. She reads your
+email and sends back a pdf with links. You exchange the pdf links with your malicious links (these links contain
+malware) and send back the modified pdf, saying that the links don’t work. She reads your email, opens the
+links, and her machine gets infected. You now have access to the company network. What testing method did
+you use?
+A. Social engineering
+B. Piggybacking
+C. Tailgating
+D. Eavesdropping
+A
+```
 ### 試題類型2.系統架構與元件組成
 ```
 Which service in a PKI will vouch for the identity of an individual or company?
@@ -60,9 +73,16 @@ D. CA
 
 D
 ```
-
+### 試題類型.技術的用途
 ```
+Which of the following is the structure designed to verify and authenticate the identity of individuals within the
+enterprise taking part in a data exchange?
+A. SOA
+B. biometrics
+C. single sign on
+D. PKI
 
+D
 ```
 
 ### 試題類型.滲透測試技術
