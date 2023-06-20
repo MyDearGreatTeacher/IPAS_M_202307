@@ -112,7 +112,10 @@ A
 ```
 
 ```
-
+Session splicing is an IDS evasion technique in which an attacker delivers data in multiple, small sized packets
+to the target computer, making it very difficult for an IDS to detect the attack signatures. Which tool can be
+used to perform session splicing attacks?
+A. tcpsplice   B. Burp   C. Hydra   D. Whisker
 ```
 ```
 
