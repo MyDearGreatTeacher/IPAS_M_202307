@@ -91,6 +91,23 @@ D. Rootkit Attack
 A
 
 ```
+```
+Scenario:
+1. Victim opens the attacker’s web site.
+2. Attacker sets up a web site which contains interesting and attractive content like ‘Do you want to make $1000 in a day?’.
+3. Victim clicks to the interesting and attractive content URL.
+4. Attacker creates a transparent ‘iframe’ in front of the URL which the victim attempts to click, so the victim
+thinks that he/she clicks on the ‘Do you want to make $1000 in a day?’ URL but actually he/she clicks on the
+content or URL that exists in the transparent 'iframe' which is setup by the attacker.
+
+What is the name of the attack which is mentioned in the scenario?
+A. Session Fixation
+B. HTML Injection
+C. HTTP Parameter Pollution
+D. Clickjacking Attack
+
+D
+```
 ### 試題類型2.系統架構與元件組成
 ```
 Which service in a PKI will vouch for the identity of an individual or company?
