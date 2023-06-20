@@ -178,9 +178,13 @@ D. Restrict Physical Access to Server Rooms hosting Critical Servers
 A
 ```
 
-### 試題類型1.
+### 試題類型1.安全協定
 ```
+Although FTP traffic is not encrypted by default, which layer 3 protocol would allow for end-to-end encryption of
+the connection?
+A. SFTP   B. Ipsec   C. SSL  D. FTPS
 
+B
 ```
 
 ```
