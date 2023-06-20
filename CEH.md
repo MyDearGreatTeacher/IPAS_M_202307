@@ -108,6 +108,19 @@ D. Clickjacking Attack
 
 D
 ```
+
+```
+An attacker is trying to redirect the traffic of a small office. That office is using their own mail server, DNS
+server and NTP server because of the importance of their job. The attacker gain access to the DNS server and
+redirect the direction www.google.com to his own IP address. Now when the employees of the office want to go
+to Google they are being redirected to the attacker machine. What is the name of this kind of attack?
+A. MAC Flooding
+B. Smurf Attack
+C. DNS spoofing
+D. ARP Poisoning
+
+C
+```
 ### 試題類型2.系統架構與元件組成
 ```
 Which service in a PKI will vouch for the identity of an individual or company?
