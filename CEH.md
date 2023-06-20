@@ -131,6 +131,17 @@ D. Human intelligence
 
 A
 ```
+
+```
+What is the known plaintext attack used against DES which gives the result that encrypting plaintext with one
+DES key followed by encrypting it with a second DES key is no more secure than using a single key?
+A. Man-in-the-middle attack
+B. Meet-in-the-middle attack
+C. Replay attack
+D. Traffic analysis attack
+
+B
+```
 ### 試題類型2.系統架構與元件組成
 ```
 Which service in a PKI will vouch for the identity of an individual or company?
